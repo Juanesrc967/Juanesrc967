@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-
+<br>
 <div align="center" style="margin-top: 20px;">
   hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbfdjsnbciousdahbciuondsoncosdncvoiuasdnbciodnifnoidafiuodsnfiosdiuf
 </div>
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
