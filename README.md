@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/OP4C9oeeSVIrwgFNAk/giphy.gif?cid=82a1493b54byqzkd7t9bit3m7ujs5pvnzdud0a5l1ur8h5s2&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="20"/> Bienvenid@ al Github de Juanesrc
+## <img src="https://media.giphy.com/media/OP4C9oeeSVIrwgFNAk/giphy.gif?cid=82a1493b54byqzkd7t9bit3m7ujs5pvnzdud0a5l1ur8h5s2&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="90"/> Bienvenid@ al Github de Juanesrc
 ![github-header-image](github-header-image.png)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan2005rc@gmail.com)
@@ -24,7 +24,8 @@ hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbf
 ## Las estadisticas del repositorio
 ![Juanesrc967' GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesrc967&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrc967&layout=compact&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesrc967&layout=compact&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+
 
 
 
