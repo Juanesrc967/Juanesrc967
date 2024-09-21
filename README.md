@@ -8,7 +8,7 @@
 </div>
 
 
-<div align="center" style="margin-top: 80px;">
+<div align="center" style="margin-top: 800px;">
   <a href="mailto:juan2005rc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
