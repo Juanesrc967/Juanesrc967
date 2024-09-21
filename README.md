@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" />
   <h1>Bienvenid@ al Github de Juanesrc</h1>
 </div>
 
