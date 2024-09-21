@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/OP4C9oeeSVIrwgFNAk/giphy.gif?cid=82a1493b54byqzkd7t9bit3m7ujs5pvnzdud0a5l1ur8h5s2&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="90"/> Bienvenid@ al Github de Juanesrc
+## <img src="https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=ecf05e475yg0dc7ne67qxj7j1d4ft5a75ikw7kqynjcu8i3o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="90"/> Bienvenid@ al Github de Juanesrc
 ![github-header-image](github-header-image.png)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan2005rc@gmail.com)
