@@ -21,10 +21,9 @@ hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbf
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Las estadisticas del repositorio
-![Juanesrc967' GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesrc967&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesrc967&layout=compact&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesrc967&layout=compact&theme=dark&count_private=true&token=e71e12a328845b2729274919f9d6f47b94ccb90e)
+
 
 
 
