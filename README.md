@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" />
   <h1>Bienvenid@ al Github de Juanesrc</h1>
 </div>
-
+<br><br>
 <div align="center">
   <img src="github-header-image.png" alt="github-header-image" />
 </div>
 
-<br>
-<div align="center" style="margin-top: 80px;">
+<br><br>
+<div align="center" style="margin-top: 20px;">
   <a href="mailto:juan2005rc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -26,7 +26,7 @@
 <div align="center">
   <h1>Tecnologías💻 </h1>
 </div>
-
+<br><br>
 <div align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
