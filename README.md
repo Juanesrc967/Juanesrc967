@@ -24,7 +24,8 @@ hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbf
 ## Las estadisticas del repositorio
 ![Juanesrc967' GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesrc967&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrc967&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanesrc967&layout=compact&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+
 
 
 <!--
