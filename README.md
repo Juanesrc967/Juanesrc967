@@ -21,8 +21,11 @@
 <div align="center" style="margin-top: 20px;">
   hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbfdjsnbciousdahbciuondsoncosdncvoiuasdnbciodnifnoidafiuodsnfiosdiuf
 </div>
-
-  ## Tecnologías💻
+  
+  <br><br>
+<div align="center">
+  <h1>Tecnologías💻 </h1>
+</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -45,7 +48,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Estudiante en tecnologo en sistemas ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
