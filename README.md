@@ -19,7 +19,7 @@
 
 <br><br>
 <div align="center" style="margin-top: 20px;">
-  hbdifhidhfidkfhkdfkdhffkhdfkhdfhdkhfkdhfkhdkfhdkhfkdhfkdhfkhdkhfdkhfkdhfkhdsjhbfdjsnbciousdahbciuondsoncosdncvoiuasdnbciodnifnoidafiuodsnfiosdiuf
+  Soy una persona apasionada por la tecnología, siempre en busca de nuevas oportunidades para aprender y crecer. Me gusta lanzar proyectos experimentales que me permiten probar las últimas tecnologías, lo que me ayuda a mantenerme actualizado y mejorar mis habilidades de manera constante. Al enfrentar nuevos retos profesionales, me esfuerzo por mejorar en cada paso, siendo disciplinado y comprometido con mi desarrollo. Mi experiencia en proyectos colaborativos ha potenciado mis habilidades de liderazgo y comunicación, preparándome para trabajar de manera eficaz en entornos multidisciplinarios y dinámicos, adaptándome a las demandas cambiantes del sector tecnológico
 </div>
   
   <br><br>
