@@ -34,7 +34,7 @@
   
   <br><br>
 <div align="center">
-  <h1> My Skills 💻 </h1>
+  <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> My Skills  </h1>
 </div>
 <br><br>
 <div align="center" style="margin-top: 20px;">
