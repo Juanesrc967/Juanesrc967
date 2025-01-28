@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" />
-  <h1>Bienvenid@ al Github de Juanesrc  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
+  <h1>Bienvenid@ 👋 al Github de Juanesrc  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 </div>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=CD8326&background=FF000000&center=true&vCenter=true&width=435&lines=Tecnologo+en+analisis+y+desarrollo+de+software;Programador+Junior;Desarrollador+QA;Desarrollador+full+stack;Desarrollador+front+end;Desarrollador+backend" alt="Typing SVG" /></a>
@@ -27,7 +27,7 @@
 
 <br><br>
 <div align="center" style="margin-top: 20px;">
-  Soy una persona apasionada por la tecnología, siempre en busca de nuevas oportunidades para aprender y crecer. Me gusta lanzar proyectos experimentales que me permiten probar las últimas tecnologías, lo que me ayuda a mantenerme actualizado y mejorar mis habilidades de manera constante. Al enfrentar nuevos retos profesionales, me esfuerzo por mejorar en cada paso, siendo disciplinado y comprometido con mi desarrollo. Mi experiencia en proyectos colaborativos ha potenciado mis habilidades de liderazgo y comunicación, preparándome para trabajar de manera eficaz en entornos multidisciplinarios y dinámicos, adaptándome a las demandas cambiantes del sector tecnológico
+ ¡Hola! Soy un desarrollador apasionado por la tecnología y la creación de experiencias digitales únicas. Con conocimientos en lenguajes de programación como Java, PHP, JavaScript y SQL, y el dominio de herramientas y frameworks como JSF, Laravel, Angular, Node.js, Express, Bootstrap y React, transformo ideas en soluciones impactantes que combinan diseño y tecnología.
 </div>
   
   <br><br>
