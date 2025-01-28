@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" />
-  <h1>Bienvenid@ al Github de Juanesrc</h1>
+  <h1>Bienvenid@ al Github de Juanesrc  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 </div>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=CD8326&background=FF000000&center=true&vCenter=true&width=435&lines=Tecnologo+en+analisis+y+desarrollo+de+software;Programador+Junior;Desarrollador+QA;Desarrollador+full+stack;Desarrollador+front+end;Desarrollador+backend" alt="Typing SVG" /></a>
