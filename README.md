@@ -17,10 +17,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
- <!-- <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">-->
+ <!--<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">-->
 
- <!-- <a href="https://portfolio-2-0-seven-gules.vercel.app/" target="_blank" >  -->
+  <a href="https://portfolio-2-0-seven-gules.vercel.app/" target="_blank" >  
+    
   <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+  
   </a>
 
 </div>
