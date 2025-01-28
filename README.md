@@ -37,7 +37,7 @@
   <h1> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> My Skills  </h1>
 </div>
 <br><br>
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 5px;">
   <h1>  Languages <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
   </picture> </h1>
   
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
  
-  <div align="center" style="margin-top: 20px;">
+  <div align="center" style="margin-top: 5px;">
      <h1> frameworks  👾 </h1>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
