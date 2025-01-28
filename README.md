@@ -8,7 +8,7 @@
 </p>
 <br><br>
 <div align="center">
-  ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+  <img src="banner.png" alt="github-header-image" />
 </div>
 
 <br><br>
