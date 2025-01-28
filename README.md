@@ -34,7 +34,7 @@
   
   <br><br>
 <div align="center">
-  <h1> Tecnologías💻 (Skills 👾 ) </h1>
+  <h1> My Skills 💻 </h1>
 </div>
 <br><br>
 <div align="center" style="margin-top: 20px;">
@@ -47,6 +47,7 @@
 </div>
  
   <div align="center" style="margin-top: 20px;">
+     <h1> frameworks  👾 </h1>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
