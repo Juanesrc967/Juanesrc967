@@ -3,7 +3,8 @@
   <h1>Bienvenid@ al Github de Juanesrc</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=CD8326&background=FF000000&center=true&vCenter=true&width=435&lines=Tecnologo+en+analisis+y+desarrollo+de+software;Programador+Junior;Desarrollador+QA;Desarrollador+full+stack;Desarrollador+front+end;Desarrollador+backend" alt="Typing SVG" /></a>
+  
 </p>
 <br><br>
 <div align="center">
