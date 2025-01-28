@@ -3,7 +3,7 @@
   <h1>Bienvenid@ 👋 al Github de Juanesrc  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=E1761B&width=435&lines=Tecnologo+en+analisis+y+desarrollo+de+software;Programador+Junior;Desarrollador+QA;Desarrollador+full+stack;Desarrollador+front+end;Desarrollador+backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=27&pause=1000&color=E1761B&center=true&vCenter=true&width=435&height=61&lines=Tecnologo+en+analisis+y+desarrollo+de+software;Programador+Junior;Desarrollador+QA;Desarrollador+full+stack;Desarrollador+front+end;Desarrollador+backend" alt="Typing SVG" /></a>
   
 </p>
 <br><br>
