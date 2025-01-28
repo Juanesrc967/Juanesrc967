@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8wNjlrdHZtYmJwOGRyZ3d0dm5rOHRranVhN2phaWlpeHp2d2IwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" />
   <h1>Bienvenid@ al Github de Juanesrc</h1>
 </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <br><br>
 <div align="center">
   <img src="github-header-image.png" alt="github-header-image" />
