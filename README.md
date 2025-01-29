@@ -7,7 +7,7 @@
   
 </p>
 <br><br>
-<div align="center">
+<div align="center" style="border-radius: 20px;" >
   <img src="banner.png" alt="github-header-image" />
 </div>
 
