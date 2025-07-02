@@ -27,7 +27,7 @@
 
 <br><br>
 <div align="center" style="margin-top: 20px;">
- ¡Hola! Soy un desarrollador apasionado por la tecnología y la creación de experiencias digitales únicas. Con conocimientos en lenguajes de programación como Java, PHP, JavaScript y SQL, y el dominio de herramientas y frameworks como JSF, Laravel, Angular, Node.js, Express, Bootstrap y React, transformo ideas en soluciones impactantes que combinan diseño y tecnología.
+ ¡Hola! Soy un desarrollador apasionado por la tecnología y la creación de experiencias digitales únicas. Con conocimientos en lenguajes de programación como Java, PHP, JavaScript, SQL, Python, y el dominio de herramientas y frameworks como JSF, Laravel, Angular, Node.js, Express, Bootstrap y React, transformo ideas en soluciones impactantes que combinan diseño y tecnología.
 </div>
   
   <br><br>
