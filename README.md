@@ -71,33 +71,21 @@ educación: Tecnólogo en Análisis y Desarrollo de Software
 ### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Juanesrc967&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juanesrc967&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Juanesrc967&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=555555" />
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesrc967&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanesrc967&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juanesrc967&custom_title=Contribuciones&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true&hide_border=true&title_color=C9D1D9" />
-</p>
 
----
-
-### 🏆 &nbsp;Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juanesrc967&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
 
 ### 📌 &nbsp;Proyectos Destacados
 
 <p align="center">
   <a href="https://github.com/Juanesrc967/JRcSoft">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juanesrc967&repo=JRcSoft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juanesrc967&repo=JRcSoft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
   </a>
 </p>
 
