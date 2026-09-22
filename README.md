@@ -29,7 +29,7 @@ educación: Tecnólogo en Análisis y Desarrollo de Software
 <br clear="both"/>
 
 <p align="center">
-<a href="mailto:juan2005rc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://portfolio-2-0-seven-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white" /></a> <a href="https://www.linkedin.com/in/juanesrc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Juanesrc967"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=Juanesrc967&style=flat-square&color=6C63FF&label=Views" />
+<a href="mailto:juan2005rc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://portfolio-2-0-seven-gules.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white" /></a> <a href="https://www.linkedin.com/in/juan-esteban-r-881612224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Juanesrc967" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=Juanesrc967&style=flat-square&color=6C63FF&label=Views" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ educación: Tecnólogo en Análisis y Desarrollo de Software
 ### 📌 &nbsp;Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/Juanesrc967/JRcSoft">
+  <a href="https://github.com/Juanesrc967/JRcSoft" target="_blank">
     <img src="https://img.shields.io/badge/📁_JRcSoft-Repositorio_Destacado-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
