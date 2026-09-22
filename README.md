@@ -85,7 +85,7 @@ educación: Tecnólogo en Análisis y Desarrollo de Software
 
 <p align="center">
   <a href="https://github.com/Juanesrc967/JRcSoft">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Juanesrc967&repo=JRcSoft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+    <img src="https://img.shields.io/badge/📁_JRcSoft-Repositorio_Destacado-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
